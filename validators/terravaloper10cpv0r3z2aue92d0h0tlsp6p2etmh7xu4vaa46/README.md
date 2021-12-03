@@ -11,7 +11,7 @@ Website: https://www.blockwaresolutions.com/
 Blockware Solutions, LLC is a Blockchain as a Service Company and Network Advisory Firm. An industry leader in Bitcoin and Cryptocurrency mining services including hardware procurement, mining rig colocation, as well as professional Mining and Staking Pool / Masternode operations.
 
 ## Contact Us
-The best way to have a quick answer is: Twitter: @BlockwareTeam or Telgram: @Blockware_Solutions
+The best way to have a quick answer is: Twitter: @BlockwareTeam or Telegram: @Blockware_Solutions
 
 ### Website
 https://www.blockwaresolutions.com/
